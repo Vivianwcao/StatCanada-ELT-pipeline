@@ -1,4 +1,4 @@
-# StatCan Data Warehouse & Lakehouse Pipeline
+# StatCan Data Lakehouse ELT Pipeline
 
 A local data engineering pipeline that cleans Statistics Canada census data, stores it in a PostgreSQL Snowflake Schema, and converts it to compressed Parquet files for fast SQL queries in DuckDB. The setup is similar to how Amazon Redshift, S3, and Amazon Athena work together in the cloud.
 
