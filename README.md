@@ -1,6 +1,6 @@
 # StatCan Data Lakehouse & ELT Pipelines
 
-> A data engineering project exploring two pipeline patterns for processing Statistics Canada census datasets: API streaming with Pandas into PostgreSQL, and direct CSV parsing with DuckDB into partitioned Bronze/Silver Parquet layers.
+A data engineering project exploring two pipeline patterns for processing Statistics Canada census datasets: API streaming with Pandas into PostgreSQL, and direct CSV parsing with DuckDB into partitioned Bronze/Silver Parquet layers.
 
 ---
 
